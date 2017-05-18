@@ -1,0 +1,25 @@
+body{
+	background: Snow  ;
+}
+h1{
+	color: White;
+	font-family: 'News Cycle', sans-serif;
+}
+header{
+	font-family: 'News Cycle', sans-serif;
+	background: blue;
+	padding: 30px;
+	margin: 0;
+}
+*{
+	align-items: center;
+}
+h3{
+	font-family: 'News Cycle', sans-serif;
+	text-align: : center;
+	padding: 10px 20px 10px 20px; 
+	margin: 30px 20px 10px 40px;
+}
+#sumar{
+	margin: 10px 20px 10px 40px;
+}
